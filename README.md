@@ -1,16 +1,14 @@
-## Hi there 👋
+### Cześć! 👋 Jestem Natalia 👩‍💻
 
-<!--
-**Flaszeczkaa/Flaszeczkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jestem studentką Informatyki na Uniwersytecie Łódzkim. Z pasją podchodzę do programowania obiektowego (OOP), projektowania relacyjnych baz danych oraz tworzenia czystego, logicznego kodu. Aktywnie poszukuję swojego pierwszego **stażu programistycznego**, w którym będę mogła wykorzystać wiedzę akademicką w praktyce.
 
-Here are some ideas to get you started:
+* 🎓 **Edukacja:** Informatyka, Uniwersytet Łódzki
+* 💻 **Mój stack technologiczny:** C#, Python, SQL, C++, JavaScript
+* 🛠️ **Narzędzia i Koncepcje:** Git, UML, REST API, Windows Forms, .NET
+* 🤖 **Modern Dev:** Aktywnie wykorzystuję AI (Prompt Engineering, GitHub Copilot) do optymalizacji pracy.
+* 🌱 **Aktualnie rozwijam się w:** ekosystemie .NET oraz języku Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+**📫 Skontaktuj się ze mną:**
+* 📧 Email: nataliaflaszka06@gmail.com
+* 💼 LinkedIn: [Tutaj wklej link do swojego LinkedIna]
