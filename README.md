@@ -6,7 +6,7 @@ I'm a Computer Science student at the University of Łódź. I'm passionate abou
 * 💻 **Tech Stack:** C#, Python, SQL, HTML/CSS/JavaScript
 * 🛠️ **Tools & Concepts:** Git, UML, REST API, Windows Forms, .NET, VS Code, SSMS, Microsoft Office
 * 🤖 **Modern Dev:** Actively using AI (Prompt Engineering, GitHub Copilot) to optimize my workflow.
-* 🌱 **Currently Learning:** ekosystemie .NET ecosystem and Java.
+* 🌱 **Currently Learning:** .NET ecosystem and Java.
 
 ---
 **📫 Contact Me:**
